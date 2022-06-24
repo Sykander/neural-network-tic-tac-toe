@@ -1,0 +1,11 @@
+{
+  "name": "neural-network-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node lib"
+  },
+  "author": "",
+  "license": "ISC"
+}
